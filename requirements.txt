@@ -1,0 +1,10 @@
+maxapi
+easyocr
+opencv-python
+numpy
+pillow
+scikit-image
+pytesseract
+PyMuPDF
+gspread
+oauth2client
